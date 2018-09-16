@@ -1,0 +1,15 @@
+{
+  "list":[{
+    "name": "王一",
+    "urgency": "1",
+    "address": "天上人间1号房",
+    "oddNumber":"445654",
+    "approvalStatus":"已审批"
+  }, {
+    "name": "王二",
+    "urgency": "5",
+    "address": "天上人间2号房",
+    "oddNumber":"21424",
+    "approvalStatus":"未审批"
+  }]
+}
